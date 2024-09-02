@@ -5,7 +5,7 @@ export function Footer() {
     <FooterStyle>
       <div>
         About &bull; Contact &bull; Terms of Use &bull; Privacy Policy
-        <p>@ Djonathan Machado 2024. All Rights Reserved</p>
+        <p>@ Isabella Peroli 2024. All Rights Reserved</p>
       </div>
       <div>
         <img src="../src/assets/github.png" alt="github icon" />
